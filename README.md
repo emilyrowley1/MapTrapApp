@@ -4,7 +4,7 @@ I created this app to familurize myself with the app development process
 
 This app is really doesn't do anything yet but it was created to help me become familure with android studio and the kotlin language. I wanted to create this app to intigrate with GIS mapping but ended up going a different direction.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sfoVh1gSkAs)
 
 # Development Environment
 
